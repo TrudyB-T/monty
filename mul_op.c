@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_mul - multiplies stack elements
+ * f_mul - multiplies stack elements.
  * @head: pointer to the stack head
  * @counter: iterator
  */
