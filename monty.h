@@ -40,6 +40,7 @@ typedef struct doc_s
 	int lifi;
 }  doc_t;
 extern doc_t doc;
+
 /**
  * struct instruction_s - opcode and its function
  * @opcode: the opcode
