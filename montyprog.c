@@ -2,7 +2,7 @@
 doc_t doc = {NULL, NULL, NULL, 0};
 
 /**
- * main - monty program
+ * main - main monty program
  * @argc: argument count
  * @argv: argument vector
  *
