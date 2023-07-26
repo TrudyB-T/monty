@@ -3,7 +3,7 @@
 /**
  * __addnode - adds node to the head
  * @head: pointer to the head
- * @n: data
+ * @n: information
  */
 
 void __addnode(stack_t **head, int n)
