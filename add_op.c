@@ -3,7 +3,7 @@
 /**
  * f_add - adds elements to stack
  * @head: pointer to the head
- * @counter: iterator
+ * @counter: iterating
  */
 
 void f_add(stack_t **head, unsigned int counter)
