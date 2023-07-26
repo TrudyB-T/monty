@@ -2,7 +2,7 @@
 
 /**
  * f_pint - prints to the stack
- * @head: pointer to the stack head
+ * @head: pointer to the stack head.
  * @counter: iterator
  */
 
