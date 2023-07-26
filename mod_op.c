@@ -2,7 +2,7 @@
 
 /**
  * f_mod - performs modulus function
- * @head: pointer to the head
+ * @head: pointer to the head of stack
  * @counter: iterator
  */
 
